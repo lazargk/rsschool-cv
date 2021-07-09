@@ -6,6 +6,6 @@
 - **Technologies:** 
     - HTML, CSS, JavaScript
 - **Tools:**
-    - Visual Code Studio, GIT
+    - Visual Code Studio, GIT, Figma
 - **Databases:**
     - MySQL, Microsoft SQL Server
