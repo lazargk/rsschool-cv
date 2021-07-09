@@ -10,7 +10,7 @@
 - **Technologies:** 
     - HTML, CSS, JavaScript
 - **Tools:**
-    - Visual Code Studio, GIT, Figma
+    - Visual Studio Code, GIT, Figma
 - **Databases:**
     - MySQL, Microsoft SQL Server
 
