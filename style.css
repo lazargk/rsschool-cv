@@ -12,10 +12,18 @@ body {
 
 header.header {
     display: flex;
-
+    align-items: center;
 }
 
 .avatar {
     width: 120px;
     height: 180px;
+    margin: 0;
+    padding: 0;
+    margin-right: 10px;
+}
+
+.wa-icon {
+    width: 16px;
+    height: 16px;
 }
