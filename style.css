@@ -4,11 +4,11 @@ body {
     font-family: Times, Times New Roman, serif;
     font-size: 14px;
 }
-.main-container {
+.main {
     margin: 0 auto;
     margin-top: 10px;
     padding: 0 10px;
-    max-width: 1200px;
+    max-width: 900px;
     
 }
 
